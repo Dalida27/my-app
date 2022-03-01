@@ -9,7 +9,6 @@
             <p>{{ item.id }}</p>
             <h1>{{ item.nickname }}</h1>
             <small>{{ item.name }}</small>
-
         </div>
     </div>
 </template>
